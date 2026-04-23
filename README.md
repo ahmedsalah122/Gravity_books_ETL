@@ -1,4 +1,4 @@
-# Gravity Books Data Warehouse
+# Gravity Books Data Warehouse ETL
 
 ## Overview
 
@@ -53,8 +53,7 @@ This project uses a **Snowflake Schema** to normalize dimensions and improve sca
 | SSMS | SQL Development |
 | SSIS | ETL Pipelines |
 | SSAS | Cube Analysis |
-| Power BI | Dashboarding |
-| Tableau | Data Visualization |
+
 
 ---
 
